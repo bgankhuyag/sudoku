@@ -7,6 +7,6 @@
   many times as they want until they solve the puzzle. To get the answers, the user can press the Space Bar and it will
   fill all the blank areas with the correct answers.
 </div>
-<div style="text-align: center">  
+<div align="center">  
 <img src="https://raw.githubusercontent.com/bgankhuyag/sudoku/master/images/sudoku.png">
 </div>
