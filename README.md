@@ -1,3 +1,3 @@
 # Sudoku Solver
 Python Tkinter sudoku solver
-<img src="../images/sudoku.png">
+<img src="https://raw.githubusercontent.com/bgankhuyag/sudoku/master/images/sudoku.png">
